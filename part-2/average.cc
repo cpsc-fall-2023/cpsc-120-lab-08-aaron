@@ -1,7 +1,7 @@
 // Aaron Noriega
 // aaronnoriega1@csu.fullerton.edu
 // @Aaron-Nor
-// Partner: @Aaron-Nor
+// Partners: @Aaron-Nor
 
 #include <iostream>
 #include <string>
